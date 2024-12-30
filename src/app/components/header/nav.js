@@ -124,7 +124,7 @@ export default Nav;
 export const navList = [
 	{
 		icon: <IoMdMail />,
-		text: "support@therecovera.net",
+		text: "help@therecovera.org",
 	},
 	// {
 	// 	icon: <FaLocationDot />,
