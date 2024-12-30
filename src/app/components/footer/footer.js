@@ -229,9 +229,9 @@ function ContactList() {
 				</div>
 				<div>
 					<a
-						href="mailto:support@therecovera.net"
+						href="mailto:help@therecovera.org"
 						className="text-white font-medium">
-						support@therecovera.net
+						help@therecovera.org
 					</a>
 				</div>
 			</div>
