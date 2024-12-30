@@ -60,9 +60,9 @@ function Page() {
 											The first thing you should do is check your inbox as you
 											should have received a welcome email from{" "}
 											<a
-												href="mailto:support@therecovera.net"
+												href="mailto:help@therecovera.org"
 												className="text-primary-900">
-												support@therecovera.net
+												help@therecovera.org
 											</a>
 											. This email is to confirm that your help ticket has been
 											submitted and share some information about our process
@@ -71,9 +71,9 @@ function Page() {
 										<p>
 											The Second thing you should do is add{" "}
 											<a
-												href="mailto:support@therecovera.net"
+												href="mailto:help@therecovera.org"
 												className="text-primary-900">
-												support@therecovera.net
+												help@therecovera.org
 											</a>{" "}
 											to your contacts list to ensure proper email delivery (
 											ie. to ensure no emails end up in spam).
