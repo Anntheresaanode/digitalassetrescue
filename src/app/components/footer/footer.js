@@ -197,10 +197,10 @@ function Title({ text }) {
 	);
 }
 const socialLinks = [
-	{
-		icon: <FaFacebookF />,
-		url: "https://facebook.com/therecovera",
-	},
+	// {
+	// 	icon: <FaFacebookF />,
+	// 	url: "https://facebook.com/therecovera",
+	// },
 	{
 		icon: <AiFillInstagram />,
 		url: "https://instagram.com/therecovera",
