@@ -122,7 +122,7 @@ export default Page;
 const faqList = [
 	{
 		title: "Check your inbox",
-		text: "The first thing you should do is check your inbox as you should have received a welcome email from support@therecovera.net. This email is to confirm that your help ticket has been submitted and share some information about our process with you prior to a team member reaching out. ",
+		text: "The first thing you should do is check your inbox as you should have received a welcome email from help@therecovera.org. This email is to confirm that your help ticket has been submitted and share some information about our process with you prior to a team member reaching out. ",
 	},
 	{
 		title:
