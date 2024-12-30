@@ -109,8 +109,8 @@ function Contact() {
 							/>
 							<div className="h-[25vh] w-full flex flex-col items-center justify-center">
 								<h3>Send Us Mail</h3>
-								<a href="mailto:support@therecovera.net">
-									support@therecovera.net
+								<a href="mailto:help@therecovera.org">
+									help@therecovera.org
 								</a>
 							</div>
 
