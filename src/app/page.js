@@ -19,7 +19,7 @@ export default function Home() {
 			<Testimonial />
 			<Process />
 			<Blog />
-			<Certification />
+			// <Certification />
 			<Faq />
 		</main>
 	);
